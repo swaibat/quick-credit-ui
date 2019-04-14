@@ -1,0 +1,2 @@
+# quick-credit-ui
+QuickCreditisanonlinelendingplatformthatprovidesshorttermsoftloanstoindividuals. Thishelpssolveproblemsoffinancialinclusionasawaytoalleviatepovertyandempowerlowincome earners.
