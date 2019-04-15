@@ -1,6 +1,5 @@
 /* global css */
 :root{
-  --theme-color:#119afe;
   --white:white;
   --orange:orange;
   --red:red;
@@ -15,9 +14,9 @@ html{
   font-family: 'Open Sans', sans-serif;
 }
 body{
-  margin-top:6rem;
   background: ghostwhite;
-  margin-right:2rem;
+  margin-left: 0;
+  width: 100%;
 }
 a{
     text-decoration: none;
@@ -34,13 +33,13 @@ li{
   height: calc(100vh - 3rem);
 }
 .logo a{
-  font-size: 20px;
+  font-size: 25px;
   color:var(--theme-color);
   font-weight: bolder
 }
 main{
     margin-left:12rem;
-    margin-right:1rem;
+    margin-right:1.3rem;
 }
 nav{
   height:3rem ;
@@ -49,7 +48,7 @@ nav{
 footer{
   text-align:center;
   background: #fff;
-
+  margin-left: 11.1rem;
 }
 .mobile-view{
   display: none;
@@ -85,9 +84,9 @@ width:46%;
 }
 
 /* ========================[ media ]=====================*/
-@media only screen  and (max-width : 768px) {
+@media (max-width : 768px) {
   .navbar{
-    width: 94vw;
+    width: 100%;
     height: 0rem;
     position: absolute;
     background: white;
@@ -121,9 +120,6 @@ width:46%;
   .stat-card{
     width:40%;
   }
-  .reponsvive-50{
-    width:100% !important;
-    }
 
 }
 
