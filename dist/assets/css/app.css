@@ -227,12 +227,17 @@ width:46%;
 th {
   border-bottom: 1px solid gray !important;
 }
-
 th,td {
   padding: 10px 10px;
   border-bottom:solid 1px rgb(245, 245, 245);
 }
-
+.plane-table td:last-child{ 
+  text-align: center;
+}
+.plane-table th, .plane-table td { 
+  padding: 10px 10px;
+  border-bottom:solid 1px transparent;
+}
 /* reponsive components */
 .resp-50{
     background: white;
