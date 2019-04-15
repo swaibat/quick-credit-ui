@@ -4,6 +4,7 @@
   --theme-color:#0044ff;
   --white:white;
   --orange:orange;
+  --red:red;
   --teal:teal;
   --green:green;
   --border-radius:15px;
@@ -15,8 +16,9 @@ html{
   font-family: 'Open Sans', sans-serif;
 }
 body{
-  padding-top:3rem;
+  margin-top:6rem;
   background: ghostwhite;
+  margin-right:2rem;
 }
 a{
     text-decoration: none;
@@ -70,6 +72,9 @@ footer{
 .border-radius{
   border-radius:var(--border-radius);
 }
+/* ======================[ pages ]====================== */
+
+
 /* ========================[ media ]=====================*/
 @media only screen  and (max-width : 768px) {
   .navbar{
@@ -125,6 +130,9 @@ footer{
 }
 .orange{
   background: var(--orange) !important;
+}
+.red{
+  background: var(--red) !important;
 }
 .green{
   background: var(--green) !important;
@@ -184,6 +192,36 @@ footer{
   padding:2px 10px !important;
   border-radius: 10px;
   font-weight: normal;
+}
+.pin-btn{
+  font-size: 11px !important;
+  padding:2px 10px !important;
+  font-weight: normal;
+  border-radius: 0px;
+}
+.label{
+  margin-top: -1.5rem;
+  position: absolute;
+  background: blue;
+  border-radius: 10px;
+  padding: 1px 10px;
+  color: white;
+  margin-left: 10px;
+}
+/* table */
+.table {
+  background: white;
+  width: 100%;
+  font-size: 15px !important;
+  text-align: left;
+} 
+th {
+  border-bottom: 1px solid gray !important;
+}
+
+th,td {
+  padding: 10px 10px;
+  border-bottom:solid 1px rgb(245, 245, 245);
 }
 
 /* reponsive components */
