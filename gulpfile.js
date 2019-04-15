@@ -27,7 +27,7 @@ function browserSyncReload(done) {
 // html tasks
 function html() {
   return gulp
-    .src('src/pages/**/*.html')
+    .src(['src/pages/**/*.html','src/static/**/*.html'])
     .pipe(panini({
         root: 'src/pages/',
         layouts: 'src/layouts/',
