@@ -1,7 +1,6 @@
 /* global css */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600');
 :root{
-  --theme-color:#0044ff;
+  --theme-color:#119afe;
   --white:white;
   --orange:orange;
   --red:red;
@@ -73,7 +72,17 @@ footer{
   border-radius:var(--border-radius);
 }
 /* ======================[ pages ]====================== */
-
+[type="text"],[type="number"]{
+  width: 96%;
+  padding:10px 30px;
+  border-radius: var(--border-radius);
+  border: solid 1px gainsboro;
+  margin: 7px;
+  font-size:15px;
+}
+.reponsvive-50{
+width:46%;
+}
 
 /* ========================[ media ]=====================*/
 @media only screen  and (max-width : 768px) {
@@ -112,9 +121,9 @@ footer{
   .stat-card{
     width:40%;
   }
-  .resp-50{
-    width: 100%;
-  }
+  .reponsvive-50{
+    width:100% !important;
+    }
 
 }
 
@@ -202,7 +211,7 @@ footer{
 .label{
   margin-top: -1.5rem;
   position: absolute;
-  background: blue;
+  background: var(--theme-color);
   border-radius: 10px;
   padding: 1px 10px;
   color: white;
@@ -688,4 +697,7 @@ th,td {
 }
 .circle{
   border-radius: 100%
+}
+.special-loan{
+  background: #00e4ff;
 }
