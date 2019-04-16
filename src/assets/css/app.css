@@ -1,7 +1,5 @@
 /* global css */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600');
 :root{
-  --theme-color:#006eff;
   --white:white;
   --orange:orange;
   --red:red;
@@ -73,7 +71,17 @@ footer{
   border-radius:var(--border-radius);
 }
 /* ======================[ pages ]====================== */
-
+[type="text"],[type="number"]{
+  width: 96%;
+  padding:10px 30px;
+  border-radius: var(--border-radius);
+  border: solid 1px gainsboro;
+  margin: 7px;
+  font-size:15px;
+}
+.reponsvive-50{
+width:46%;
+}
 
 /* ========================[ media ]=====================*/
 @media (max-width : 768px) {
@@ -111,14 +119,6 @@ footer{
   }
   .stat-card{
     width:40%;
-  }
-  .resp-50{
-    width: 100%;
-  }
-  footer{
-    text-align:center;
-    background: #fff;
-    margin-left: -.1rem;
   }
 
 }
@@ -207,7 +207,7 @@ footer{
 .label{
   margin-top: -1.5rem;
   position: absolute;
-  background: blue;
+  background: var(--theme-color);
   border-radius: 10px;
   padding: 1px 10px;
   color: white;
@@ -223,12 +223,17 @@ footer{
 th {
   border-bottom: 1px solid gray !important;
 }
-
 th,td {
   padding: 10px 10px;
   border-bottom:solid 1px rgb(245, 245, 245);
 }
-
+.plane-table td:last-child{ 
+  text-align: center;
+}
+.plane-table th, .plane-table td { 
+  padding: 10px 10px;
+  border-bottom:solid 1px transparent;
+}
 /* reponsive components */
 .resp-50{
     background: white;
@@ -693,4 +698,7 @@ th,td {
 }
 .circle{
   border-radius: 100%
+}
+.special-loan{
+  background: #00e4ff;
 }
