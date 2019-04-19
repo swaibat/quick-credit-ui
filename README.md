@@ -79,6 +79,11 @@ requirements
 
 </table>
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 Now you will be able to edit files located in `src` folder and your files will be watched each time you make a change and browser will be refreshed each time you edit.
 
 ### THANK YOU
