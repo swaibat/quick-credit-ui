@@ -81,13 +81,13 @@ Now you will be able to edit files located in `src` folder and your files will b
 
 ### THANK YOU
 
-## Rumbiiha Swaibu
+#### Rumbiiha Swaibu
 
 **Front-end Developer** 
-Website: https://sassybootstrap.com.
+- Website: https://sassybootstrap.com.
 
-Github: https://github.com/swaibat.
+- Github: https://github.com/swaibat.
 
-Codepen:https://codepen.io/swaibu.
+- Codepen:https://codepen.io/swaibu.
 
-Quick credit 2019
+----------------Quick credit 2019----------------------
