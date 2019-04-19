@@ -29,8 +29,6 @@ Within Quick credit UI you WIll find the following directories and files. Cross 
 
 # Getting Started
 
-* * *
-
 on your local machine run the following command that will enable you save Quick credit Ui on your local machine(you need to have git installed on your machine) OR Or you can download it manually on clone or download button
 
 `$ git clone https://github.com/swaibat/quick-credit-ui-1.git`
@@ -79,15 +77,17 @@ requirements
 
 </table>
 
-Now you will be able to edit files located in `src` folder and your files will be watched each time you make a change and browser will be refreshed each time you edit
+Now you will be able to edit files located in `src` folder and your files will be watched each time you make a change and browser will be refreshed each time you edit.
 
 ### THANK YOU
 
 ## Rumbiiha Swaibu
 
 **Front-end Developer** 
-Website: https://sassybootstrap.com
-Github: https://github.com/swaibat
-Codepen:https://codepen.io/swaibu
+Website: https://sassybootstrap.com.
+
+Github: https://github.com/swaibat.
+
+Codepen:https://codepen.io/swaibu.
 
 Quick credit 2019
