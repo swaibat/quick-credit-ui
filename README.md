@@ -63,7 +63,7 @@ requirements
 
 <td>gulp:</td>
 
-<td>run `$ npm install gulp-cli -g` to install gulp globally</td>
+<td>run ``$ npm install gulp-cli -g`` to install gulp globally</td>
 
 </tr>
 
