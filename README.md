@@ -5,7 +5,7 @@
 
 Quick Credit is anonline lending platform that provides short term soft loans to individuals.This helps solve problems of financial inclusion as away to alleviate poverty and empower low income earners.
 
-# File structure
+# Folder structure
 
 Within Quick credit UI you WIll find the following directories and files. Cross check in any of the file misses the app may have a problem while bieng excetuted
 
@@ -83,43 +83,11 @@ Now you will be able to edit files located in `src` folder and your files will b
 
 ### THANK YOU
 
-<div class="align-center margin-t-6">
-
 ## Rumbiiha Swaibu
 
 **Front-end Developer** 
-<small>Website: https://sassybootstrap.com</small>
-<small>Github: https://github.com/swaibat</small>
-<small>Codepen:https://codepen.io/swaibu</small>
+Website: https://sassybootstrap.com
+Github: https://github.com/swaibat
+Codepen:https://codepen.io/swaibu
 
-</div>
-
-<td>run `$ npm install gulp-cli -g` to install gulp globally</td>
-
-</tr>
-
-<tr>
-
-<td>Modules:</td>
-
-<td>then run `$ npm install` to install all the necessary module for tha app to operate</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-Now you will be able to edit files located in `src` folder and your files will be watched each time you make a change and browser will be refreshed each time you edit ### THANK YOU
-
-<div class="align-center margin-t-6">## Rumbiiha Swaibu
-
-<div class="flex-y">**Front-end Developer** <small>Website: https://sassybootstrap.com</small> <small>Github: https://github.com/swaibat</small> <small>Codepen:https://codepen.io/swaibu</small></div>
-
-</div>
-
-</div>
-
-</main>
-
-<footer class="shadow-top padding-y-3 full-width"><a>Quick credit 2019</a></footer>
+Quick credit 2019
