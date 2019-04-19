@@ -7,8 +7,6 @@ Quick Credit is anonline lending platform that provides short term soft loans to
 
 # File structure
 
-* * *
-
 Within Quick credit UI you WIll find the following directories and files. Cross check in any of the file misses the app may have a problem while bieng excetuted
 
 <pre>                    `Quick-credit-ui-1/
@@ -89,7 +87,10 @@ Now you will be able to edit files located in `src` folder and your files will b
 
 ## Rumbiiha Swaibu
 
-<div class="flex-y">**Front-end Developer** <small>Website: https://sassybootstrap.com</small> <small>Github: https://github.com/swaibat</small> <small>Codepen:https://codepen.io/swaibu</small></div>
+**Front-end Developer** 
+<small>Website: https://sassybootstrap.com</small>
+<small>Github: https://github.com/swaibat</small>
+<small>Codepen:https://codepen.io/swaibu</small>
 
 </div>
 
