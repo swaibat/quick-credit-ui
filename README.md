@@ -1,11 +1,24 @@
 # quick-credit-ui
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce427c86332745ec83592d61114ba94f)](https://app.codacy.com/app/swaibat/quick-credit-ui?utm_source=github.com&utm_medium=referral&utm_content=swaibat/quick-credit-ui&utm_campaign=Badge_Grade_Dashboard)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/swaibat/sassadminlite/blob/master/LICENSE)
+# Quick-credit-api-v1
+Quick Credit is an online lending platform that provides short term soft loans to individuals.This helps solve problems of financial inclusion as away to alleviate poverty and empower low income earners. 
 
-Quick Credit is anonline lending platform that provides short term soft loans to individuals.This helps solve problems of financial inclusion as away to alleviate poverty and empower low income earners.
-# preview image
-![quick-credit-ui!](https://sassybootstrap.com/external/quick%20credit%20preview1%20copy.png "quick-credit-ui")
+[![Build Status](https://travis-ci.org/swaibat/Quick-credit-api-v1.svg?branch=develop)](https://travis-ci.org/swaibat/Quick-credit-api-v1)
+[![Coverage Status](https://coveralls.io/repos/github/swaibat/Quick-credit-api-v1/badge.svg?branch=develop)](https://coveralls.io/github/swaibat/Quick-credit-api-v1?branch=develop)
+[![CodeFactor](https://www.codefactor.io/repository/github/swaibat/quick-credit-api-v1/badge)](https://www.codefactor.io/repository/github/swaibat/quick-credit-api-v1)
+[![dependencies Status](https://david-dm.org/swaibat/Quick-credit-api-v1/status.svg)](https://david-dm.org/swaibat/Quick-credit-api-v1)
+[![devDependencies Status](https://david-dm.org/swaibat/Quick-credit-api-v1/dev-status.svg)](https://david-dm.org/swaibat/Quick-credit-api-v1?type=dev)
+[![Maintainability](https://api.codeclimate.com/v1/badges/91e8927e9c5d8ba586bf/maintainability)](https://codeclimate.com/github/swaibat/Quick-credit-api-v1/maintainability)
+
+## Get Started
+
+### folder structure
+
+### Api features
+
+### Endpoints
+
+### run Tests
 
 # Folder structure
 
